@@ -1,0 +1,1 @@
+print("Você já se sentiu assim antes?")
